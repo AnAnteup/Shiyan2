@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shiyan2</string>
+    <string name="hello">Shiyan2</string>
+    <string name="title_activity_the_other">TheOtherActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+
+</resources>
